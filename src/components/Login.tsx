@@ -43,7 +43,7 @@ export default function Login() {
           <div className="w-24 h-24 mb-2 rounded-full overflow-hidden bg-blue-800">
             <img
               src="/berkah.jpg"
-              alt="Berkah Jaya Transport Logo"
+              alt=""
               className="w-full h-full object-cover"
             />
           </div>
